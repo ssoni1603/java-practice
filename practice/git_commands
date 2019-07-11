@@ -8,3 +8,6 @@ to commit: git commit -m "<<message>>"
 git push
 
 to add and commit at the same time: git commit -am "<<message">>
+
+to view commit msg: git log
+to view commit msgs in short: git log --oneline
