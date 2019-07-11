@@ -1,6 +1,10 @@
 copy a project from github to local : git clone <url>
         example for this : git clone https://github.com/ssoni1603/java-practice.git
 
+
+to get changes : git pull
+
+
 git status
 to add specific file: git add <<filename>>
 to add all files: git add .
