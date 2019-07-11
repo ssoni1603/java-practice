@@ -1,3 +1,10 @@
 git status
-git add <<filename>>
-git add .
+to add specific file: git add <<filename>>
+to add all files: git add .
+to remove an added file: git reset head <<file relative path>>
+
+to commit: git commit -m "<<message>>"
+
+git push
+
+to add and commit at the same time: git commit -am "<<message">>
