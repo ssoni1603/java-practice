@@ -19,10 +19,12 @@ public class SumOf2Matrices {
                 {7, 8, 9},
                 {10, 11, 12}};
 
+        int c[][]= new int [3][3];
 
         for (int i = 0; i < a.length; i++) {//0.3
             for (int j = 0; j < a[i].length; j++) { //0.3
-                System.out.print(a[i][j] + b[i][j] + " ");
+                c[i][j]=a[i][j] + b[i][j];
+                System.out.print(c[i][j]+ " ");
             }
             System.out.println();
         }
