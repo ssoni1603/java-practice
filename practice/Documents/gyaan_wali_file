@@ -1,0 +1,10 @@
+Shortcuts:
+code format: ctrl+alt+l
+refactor: shft+f6
+run: ctrl+shft+f10
+
+Points to remember:
+*charAt(): Indexing starts from 0
+*
+*
+*
